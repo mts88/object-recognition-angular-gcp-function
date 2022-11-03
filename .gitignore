@@ -3,3 +3,10 @@
 node_modules
 npm-debug.log
 yarn-error.log
+
+# Build
+lib
+
+# Firebase 
+firebase-debug.log
+ui-debug.log
