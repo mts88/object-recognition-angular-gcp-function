@@ -10,3 +10,4 @@ lib
 # Firebase 
 firebase-debug.log
 ui-debug.log
+service-account.json
