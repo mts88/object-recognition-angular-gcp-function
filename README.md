@@ -2,6 +2,8 @@
 
 This function acts as a pass through to the [Cloud Vision JSON API](https://cloud.google.com/vision/docs/request).
 
+## Guide
+Full guide on [Medium](https://mts88.medium.com/object-detection-with-angular-firebase-and-google-cloud-vision-acb69bc5f07)
 
 ## How to use
 
